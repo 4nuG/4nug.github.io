@@ -1,6 +1,6 @@
 ## Selected Projects
 
-# [Predicting House Prices](https://github.com/4nuG/predicting-house-prices)
+# [Predicting House Prices](https://4nug.github.io/predicting-house-prices/)
 
 *A model trained to extract important features (GR Liv Area, Overall Qual, BsmtFin SF1, Year Built, Overall Cond, Neighborhood, Pool QC, Bldg Type, Lot Area, and Bsmt Qual) from housing dataset, linked to be housing price indicators. Model can estimate prices.*
 
