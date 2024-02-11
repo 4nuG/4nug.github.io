@@ -1,9 +1,9 @@
 ## Selected Projects
 
-# [Statistical Analysis](https://4nug.github.io/Genetics-project/)
+# [Statistical Analysis](https://github.com/4nuG/Statistical-Analysis)
 *Repository showcasing my statistical analysis skills*
 
-# [Genetics project](https://github.com/4nuG/Statistical-Analysis)
+# [Genetics project](https://4nug.github.io/Genetics-project/)
 *Pipeline detailing how to achieve precise and swift alignment of Fragaria iinumae genomes using BWA-MEM*
 
 # [Predicting House Prices](https://4nug.github.io/predicting-house-prices/)
